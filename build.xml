@@ -3,6 +3,6 @@
 	<echo> creating a folder </echo>
 	<target name="first">
 		<mkdir dir="${folder}"/>
-		<echo> directory created </iecho>
+		<echo> directory created </echo>
 	</target>
 		</project>
