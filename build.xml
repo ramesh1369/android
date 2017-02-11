@@ -1,0 +1,8 @@
+<project name="android">
+	<property name="folder" value="123 "/>
+	<echo> creating a folder </echo>
+	<target name="first">
+		<mkdir dir="${folder}"/>
+		<echo> directory created </iecho>
+	</target>
+		</project>
