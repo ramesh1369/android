@@ -1,4 +1,4 @@
-<project name="android">
+<project name="android" default="first">
 	<property name="folder" value="123 "/>
 	<echo> creating a folder </echo>
 	<target name="first">
